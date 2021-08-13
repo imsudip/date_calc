@@ -1,3 +1,7 @@
+## 1.0.0+2
+
+* updated readme
+
 ## 1.0.0
 
 * updated all dependencies to latest versions

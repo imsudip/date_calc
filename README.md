@@ -6,11 +6,11 @@ Date manipulation library for easy calculating.
 
 ### Installation
 
-Add `date_calc` as a dependency in pubspec.yaml file.
+Add `date_calc_lts` as a dependency in pubspec.yaml file.
 
 ```yaml
 dependencies:
-  date_calc: ^0.1.0
+  date_calc: ^1.0.0+2
 ```
 
 Run `pub install`.
@@ -18,7 +18,7 @@ Run `pub install`.
 ### Using
 
 ```dart
-import 'package:date_calc/date_calc.dart';
+import 'package:date_calc_lts/date_calc_lts.dart';
 
 final date = DateCalc(2019, 1, 5);
 print(date.addMonth(1));
@@ -43,8 +43,8 @@ final date = DateCalc(2019, 1, 5);
 date.subtractYear(1).toDate();
 ```
 
-## milestones for 1.0.0
+<!-- ## milestones for 1.0.0
 
 - support for DST
 - support for UTC & Timezone
-- support for leapsecond
+- support for leapsecond -->
