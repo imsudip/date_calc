@@ -1,4 +1,4 @@
-import 'package:date_calc/date_calc.dart';
+import 'package:date_calc_lts/date_calc_lts.dart';
 
 void main() {
   final date = DateCalc(2019, 1, 5);

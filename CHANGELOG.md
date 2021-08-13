@@ -1,3 +1,7 @@
+## 1.0.0
+
+* updated all dependencies to latest versions
+
 ## 0.1.1+3
 
 * Fix to `toDate` method returns correct `isUtc` parameter.

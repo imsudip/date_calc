@@ -1,6 +1,6 @@
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:test/test.dart';
-import 'package:date_calc/date_calc.dart';
+import 'package:date_calc_lts/date_calc_lts.dart';
 
 void main() {
   test('Yesterday isSameDay yesterday, yesrterday isNotSameDay today', () {
